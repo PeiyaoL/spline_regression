@@ -11,7 +11,7 @@ $$
 $$
 
 
-##Function i:
+## Function i:
 $$
     \begin{aligned}
     f_{i}(x) &= a_{i}x^{3} + b_{i}x^{2} + c_{i}x + d_{i} \\
@@ -21,7 +21,7 @@ $$
 $$
 
 
-##Constrains:
+## Constrains:
 
 $ \forall i \in \{2 \ldots n-1\} $:
 $$
@@ -41,7 +41,7 @@ $$
 $$
 
 
-##Cost Function
+## Cost Function
 
 $$
     \begin{aligned}
@@ -114,7 +114,7 @@ $$
     \end{aligned}
 $$
 
-##Form of H Matrix
+## Form of H Matrix
 
 $$
     \begin{aligned}
